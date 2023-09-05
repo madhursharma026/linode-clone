@@ -28,10 +28,30 @@ export default function Section2() {
                         </div>
                     </div>
                     <div className="col-lg-4 mt-5">
-                        <h4>LATEST BLOG POSTS</h4>
+                        <h4 className="pb-3">LATEST BLOG POSTS</h4>
+                        <h5>Cloud Computing Service Models</h5>
+                        <hr />
+                        <h5>Cloud Computing Service Models</h5>
+                        <hr />
+                        <h5>Cloud Computing Service Models</h5>
+                        <hr />
+                        <h5>Cloud Computing Service Models</h5>
+                        <hr />
+                        <h5>Cloud Computing Service Models</h5>
+                        <hr />
                     </div>
                     <div className="col-lg-4 mt-5">
-                        <h4>NEW ON LINODE.COM</h4>
+                        <h4 className="pb-3">NEW ON LINODE.COM</h4>
+                        <h5>Cloud Computing Service Models</h5>
+                        <hr />
+                        <h5>Cloud Computing Service Models</h5>
+                        <hr />
+                        <h5>Cloud Computing Service Models</h5>
+                        <hr />
+                        <h5>Cloud Computing Service Models</h5>
+                        <hr />
+                        <h5>Cloud Computing Service Models</h5>
+                        <hr />
                     </div>
                 </div>
             </div>
