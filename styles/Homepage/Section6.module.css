@@ -1,0 +1,11 @@
+.imgContainer {
+    position: relative;
+}
+
+.imgContent {
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    width: 50%;
+    transform: translate(-10%, -15%);
+}
